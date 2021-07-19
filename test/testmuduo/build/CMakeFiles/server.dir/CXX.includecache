@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gnosiy/WSOD/cluster/testmuduo/muduo_server.cpp
+muduo/net/TcpServer.h
+-
+muduo/net/EventLoop.h
+-
+functional
+-
+iostream
+-
+string
+-
+

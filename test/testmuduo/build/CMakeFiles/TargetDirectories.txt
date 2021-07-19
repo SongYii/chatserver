@@ -1,0 +1,3 @@
+/home/gnosiy/WSOD/cluster/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/gnosiy/WSOD/cluster/testmuduo/build/CMakeFiles/server.dir
+/home/gnosiy/WSOD/cluster/testmuduo/build/CMakeFiles/edit_cache.dir
